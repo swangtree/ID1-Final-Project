@@ -43,5 +43,6 @@ Key features of this project:
 The plots allow quick visual inspection of how different flavor notes correlate with price and rating. This can reveal interesting patterns in how certain tasting notes are perceived as more "premium".
 
 ## Documentation
-[Matplotlib Documentation](https://matplotlib.org/stable/index.html) \
-I used this [StackOverflow discussion](https://stackoverflow.com/questions/14720331/how-to-generate-random-colors-in-matplotlib) for creating random colors
+In addition to the sources listed in the bibliography of the paper, these additional resources were used:
+- [Matplotlib Documentation](https://matplotlib.org/stable/index.html)
+- I used this [StackOverflow discussion](https://stackoverflow.com/questions/14720331/how-to-generate-random-colors-in-matplotlib) for creating random colors

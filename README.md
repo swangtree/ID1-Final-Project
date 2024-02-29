@@ -1,6 +1,6 @@
 # Tea Flavor Analysis
 
-This project was the final for the "Evolution of Food" seminar course at Pomona College with the code and paper for the project written in December 2022. The paper, csv files, and coding was done by me, [Samuel Wang](https://github.com/swangtree).
+This project was the final for the "Evolution of Food" seminar course at Pomona College with the code and paper for the project written in December 2022. The paper, csv files, and coding was done by me, [Samuel Wang](https://github.com/swangtree). A link to the paper can be found [here](https://docs.google.com/document/d/1m8sX9uINlREx4-TNqPJcAEAJGZtXbgFtzmOfzaird94/edit?usp=sharing).
 
 ## Table of Contents
 
@@ -20,6 +20,8 @@ The goal of the paper is to compare the correlations between popular flavor note
 3. **Applications of flavor analysis** - Understanding correlations between flavors and perceptions of value can help with product development, food pairings, and targeted marketing.
 
 The figures used the in paper are created from charts made in `tea_data_analysis.py`. The data was manually scraped from [Steepster](https://steepster.com/) into csv files (I copied and pasted data from different websites into an excel file). In the future, I want to explore web scraping tools, but for this project the data was manually scraped due to time constraints.
+
+The entire paper process start to finish was completed within a week, so files aren't organized as neatly as I would like, but I'm happy with the end result!
 
 ## Configuration
 

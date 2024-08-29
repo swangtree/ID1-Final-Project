@@ -1,4 +1,4 @@
-# Tea Flavor Analysis
+# 🍵 Tea Flavor Analysis
 
 This project was the final for the "Evolution of Food" seminar course at Pomona College with the code and paper for the project written in December 2022. The paper, csv files, and coding was done by me, [Samuel Wang](https://github.com/swangtree). A link to the paper can be found [here](https://docs.google.com/document/d/1m8sX9uINlREx4-TNqPJcAEAJGZtXbgFtzmOfzaird94/edit?usp=sharing).
 
